@@ -1,5 +1,7 @@
 ## ts-boilerplate
 
+![CI](https://github.com/terror/ts-boilerplate/workflows/CI/badge.svg)
+
 A quick boilerplate for node + typescript projects (with docker support)
 
 ## Building the image
